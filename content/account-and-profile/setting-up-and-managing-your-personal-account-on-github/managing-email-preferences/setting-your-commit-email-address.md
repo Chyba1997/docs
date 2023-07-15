@@ -2,17 +2,17 @@
 title: Setting your commit email address
 intro: 'You can set the email address that is used to author commits on {% data variables.location.product_location %} and on your computer.'
 redirect_from:
-  - /articles/keeping-your-email-address-private
-  - /articles/setting-your-commit-email-address-on-github
-  - /articles/about-commit-email-addresses
-  - /articles/git-email-settings
-  - /articles/setting-your-email-in-git
-  - /articles/set-your-user-name-email-and-github-token
-  - /articles/setting-your-commit-email-address-in-git
-  - /articles/setting-your-commit-email-address
-  - /github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
-  - /github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address
-  - /account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address
+  - maksim.chyba@gmail.com/articles/keeping-your-email-address-private
+  - maksim.chyba@gmail.com/articles/setting-your-commit-email-address-on-github
+  - maksim.chyba@gmail.com/articles/about-commit-email-addresses
+  - maksim.chyba@gmail.com/articles/git-email-settings
+  - maksim.chyba@gmail.com/articles/setting-your-email-in-git
+  - maksim.chyba@gmail.com/articles/set-your-user-name-email-and-github-token
+  - maksim.chyba@gmail.com/articles/setting-your-commit-email-address-in-git
+  - maksim.chyba@gmail.com/articles/setting-your-commit-email-address
+  - maksim.chyba@gmail.com/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
+  - maksim.chyba@gmail.com/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address
+  - maksim.chyba@gmail.com/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address
 versions:
   fpt: '*'
   ghes: '*'
